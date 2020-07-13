@@ -1,3 +1,3 @@
 # HomeCanteo
 Somos Canteo
-Esto es un readme
+Web oficial del grupo de música madrileño Canteo. De Madrid a tus oídos
